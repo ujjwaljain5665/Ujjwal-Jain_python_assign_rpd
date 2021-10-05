@@ -9,3 +9,5 @@ class task contains three functions as follows:
   3.correltn_mat() : this function reads the processed.csv file and create the correlation matrix from the data.
   ----------main function----------
   Firstly we create an object of the class task and then call the functions to perform the task.
+----------Execution----------
+call the function in the serial they are declared i.e, first call csv_to_fromattedcsv() then call csv_to_sql() and at last call correltn_mat()
